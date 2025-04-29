@@ -1,6 +1,5 @@
 {
     "forum/all_topics_unfollowed": "All topics have been unfollowed.",
-    "forum/available_hooks": "Available Hooks",
     "forum/average_posts": "Average user post count",
     "forum/topic_reply": "Topic reply",
     "forum/banned_terms": "Banned Terms",
@@ -124,7 +123,6 @@
     "forum/no_topics_short": "No topics",
     "forum/not_following_any_topics": "You are not following any topics.",
     "forum/now_following_topic": "You are now following this topic, and will be notified of any new replies.",
-    "forum/online_users": "Online Users",
     "forum/overview": "Overview",
     "forum/parent_forum": "Parent Forum",
     "forum/parent_forum_x": "Parent Forum: {{forum}}",
